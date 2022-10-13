@@ -52,7 +52,7 @@ Game: `Nintendo Switch`
 # `os.listdir("links")`
 
 Twitter: [NattyanTV(@nattyan_tv)](https://twitter.com/nattyan_tv)  
-YouTube: [なっちゃんTV](https://www.youtube.com/channel/UCTvRALH2llgTZ7L-wVpWOBQ)  
+YouTube: [なっちゃんTV](https://youtube.com/@nattyantv)  
 Twitch: [NattyanTV](https://www.twitch.tv/nattyantv)  
 
 # `Jikosyoukai`
