@@ -43,11 +43,15 @@ Console.WriteLine("C#");
 
 # `platform.system()`
 
-Main machine: `Windows11` (Ryzen/GeForce)  
-Server machine: `Raspbian` (RaspberryPi 4)  
-Laptop: `None` (HP ProBook) (OS入れ替え中)  
-Develop machine: `iPad Pro 3rd Gen 11inch` (with ComboTouch Keyboard)
-Game: `Nintendo Switch`
+Type|OS|Detail
+---|---|---
+Main|Windows11|Ryzen/GeForce
+Server|Raspbian 10|RPi 4
+Laptop|...|HP ProBook
+Develop|iPadOS|iPad Pro 3rd 11'
+Game|Nitendo Switch|2018 Model
+Phone|iOS|iPhone SE2
+Phone|EMUI|Huawei P20L
 
 # `os.listdir("links")`
 
