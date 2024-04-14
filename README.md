@@ -47,11 +47,10 @@ Type|OS|Detail
 ---|---|---
 Main|Windows11|Ryzen/GeForce
 Server|Raspbian 10|RPi 4
-Laptop|...|HP ProBook
+Laptop|Windows11|Surface Laptop Go 3
 Develop|iPadOS|iPad Pro 3rd 11'
 Game|Nitendo Switch|2018 Model
 Phone|iOS|iPhone SE2
-Phone|EMUI|Huawei P20L
 
 # `os.listdir("links")`
 
