@@ -21,9 +21,10 @@ import sys
 
 # `__name__`
 
-NattyanTV  
-Org: [Team-i2021](https://github.com/team-i2021)  
-追われるより追う方が多いタイプの猫プログラマー。
+NattyanTV
+
+追われるより追う方が多いタイプのプログラマー。  
+猫が好きだから勝手に猫を名乗っていますが、猫の方々の中で私に喧嘩を挑む方はDMにｼｬｰってしておいてください。
 
 # `os.getenv("LANG")`
 
@@ -45,12 +46,11 @@ Console.WriteLine("C#");
 
 Type|OS|Detail
 ---|---|---
-Main|Windows11|Ryzen/GeForce
-Server|Raspbian 10|RPi 4
+Main|Windows11|Ryzen/RTX
 Laptop|Windows11|Surface Laptop Go 3
-Develop|iPadOS|iPad Pro 3rd 11'
-Game|Nitendo Switch|2018 Model
-Phone|iOS|iPhone SE2
+Server|Raspbian 10|RPi 4
+Tablet|iPadOS|iPad Pro 3rd 11'
+SmartPhone|iOS|iPhone 15
 
 # `os.listdir("links")`
 
@@ -66,12 +66,10 @@ Traceback (most recent call last):
 NameError: name 'Jikosyoukai' is not defined
 ```
 
-割と色んなゲームが好きな一般猫。  
-音ゲーとシューティングとかはやっぱり好き。  
-音ゲーは特に。  
-ゲームだけじゃなくて音楽全般好き。  
-後は色んなアニメ見たり...映画見てみたり...  
-そんな優雅な生活を送らせてもらっています。  
-自己紹介は以上です。
+嗜む程度にはゲームをプレイして、楽しむ程度に絵を描いていて、飽きない程度にプログラミングをしています。  
+人とよろしくなかよくするのはかなり苦手な典型的コミュ弱なのですが優しくしてくださいまし。  
+ゲームはそこら辺のシューティングや音ゲー、最近は第五人格とコンパスをちょいちょいやってるらしい。  
+絵については無限に上手くなりたいので沢山描いてる。楽しいのでもっと絵を描きたいが時間を作れない。  
+プログラミングについては好きな言語を無限に擦りながら遊んでます。
 
 ###### NattyanTV
