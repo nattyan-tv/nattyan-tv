@@ -1,14 +1,7 @@
 <!-- Welcome to my README! -->
 
 <div align="center">
-<div><i>NattyanTV</i></div><br>
-
-  ![NattyanTV](https://user-images.githubusercontent.com/73095116/195631143-cf1b8a89-723e-43f6-b1eb-fe801d05ab4a.jpg)
-  <div>
-    <a href="https://twitter.com/nattyan_tv" target="blank">
-      <img src="https://img.shields.io/twitter/follow/nattyan_tv?logo=twitter&style=flat-square">
-    </a>
-  </div>
+<i>NattyanTV</i>
 </div>
 
 ---
@@ -23,24 +16,17 @@ import sys
 
 NattyanTV
 
-追われるより追う方が多いタイプのプログラマー。  
-猫が好きだから勝手に猫を名乗っていますが、猫の方々の中で私に喧嘩を挑む方はDMにｼｬｰってしておいてください。
+猫好き〜
 
 # `os.getenv("LANG")`
 
 `ja_JP.UTF-8`
 
-```py
-print("Python")
-```
+Pythonをメインの武器として戦う。  
+TypeScript/JavaScriptも一応出来る(フロントエンド)。
 
-```js
-Console.info("JavaScript/TypeScript");
-```
+C#やRustなんかにも手を出している。
 
-```cs
-Console.WriteLine("C#");
-```
 
 # `platform.system()`
 
