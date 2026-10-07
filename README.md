@@ -16,7 +16,7 @@ import sys
 
 NattyanTV
 
-猫好き〜
+もはや私が猫
 
 # `os.getenv("LANG")`
 
@@ -25,7 +25,7 @@ NattyanTV
 Pythonをメインの武器として戦う。  
 TypeScript/JavaScriptも一応出来る(フロントエンド)。
 
-C#やRustなんかにも手を出している。
+C#やRustなんかにも手を出していたりなかったり。
 
 
 # `platform.system()`
@@ -33,7 +33,7 @@ C#やRustなんかにも手を出している。
 Type|OS|Detail
 ---|---|---
 Main|Windows11|Ryzen/RTX
-Laptop|Windows11|Surface Laptop Go 3
+Laptop|macOS 27|M5 MacBook Air
 Server|Raspbian 10|RPi 4
 Tablet|iPadOS|iPad Pro 3rd 11'
 SmartPhone|iOS|iPhone 15
@@ -54,8 +54,8 @@ NameError: name 'Jikosyoukai' is not defined
 
 嗜む程度にはゲームをプレイして、楽しむ程度に絵を描いていて、飽きない程度にプログラミングをしています。  
 人とよろしくなかよくするのはかなり苦手な典型的コミュ弱なのですが優しくしてくださいまし。  
-ゲームはそこら辺のシューティングや音ゲー、最近は第五人格とコンパスをちょいちょいやってるらしい。  
-絵については無限に上手くなりたいので沢山描いてる。楽しいのでもっと絵を描きたいが時間を作れない。  
-プログラミングについては好きな言語を無限に擦りながら遊んでます。
+ゲームはそこら辺のシューティングや音ゲー、最近は第五人格をちょいちょいやってるらしい。  
+絵については無限に上手くなりたいので沢山描いてる。楽しいのでもっと絵を描きたいが時間を作れないのと上達するまでが長くて挫折気味。  
+プログラミングについては好きな言語を無限に擦りながら遊んでいます。
 
 ###### NattyanTV
